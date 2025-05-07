@@ -1,2 +1,0 @@
-# Remplace par tes propres clés API
-OPENWEATHER_API_KEY = "RDG2YTGFUCWZRC72JNDU37D8L"
